@@ -3,6 +3,14 @@
   <channel>
     <title>Kiku</title>
     <item>
+      <title>Kiku 0.3.6</title>
+      <pubDate>Tue, 10 Nov 2026 16:37:35 GMT</pubDate>
+      <sparkle:version>202611101637</sparkle:version>
+      <sparkle:shortVersionString>0.3.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/zilskesammy/kiku-releases/releases/download/v0.3.6/Kiku.zip" type="application/octet-stream" sparkle:edSignature="PBV7J0TBQkwovr1o9ssXP6HRVGsIuU+bjlo2fwAmb8HjcSr6mrTm8Uvo8oXtq4YZ8l9c62ehlpm3UNC+l2YTBw==" length="3006243"/>
+    </item>
+    <item>
       <title>Kiku 0.3.5</title>
       <pubDate>Tue, 10 Nov 2026 16:30:43 GMT</pubDate>
       <sparkle:version>202611101630</sparkle:version>
