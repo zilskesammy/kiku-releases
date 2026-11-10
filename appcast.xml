@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Kiku</title>
+    <item>
+      <title>Kiku 0.2.0</title>
+      <pubDate>Tue, 10 Nov 2026 10:46:27 GMT</pubDate>
+      <sparkle:version>202611101046</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/zilskesammy/kiku-releases/releases/download/v0.2.0/Kiku.zip" type="application/octet-stream" sparkle:edSignature="aiMtS0hCeCnETAlj+9cEqhIiYEq11+tusiUkGVGpNh0STwN0RcAQnVSaYdm6xy7WYbaGd5/7pV3Khtlo5bYUAw==" length="2745545"/>
+    </item>
+  </channel>
+</rss>
